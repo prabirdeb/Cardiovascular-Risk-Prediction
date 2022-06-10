@@ -24,7 +24,7 @@ Employed some of the most widely used classification algorithms for this project
 
 Final model was KNN classifier selected from Random Forest, KNN and SVC for predicting 10 Years Coronary heart disease, having low variance in prediction ( test accuracy is 84%, variance 1% ), good f1_score (0.48) , and good ROC_AUC score (0.51) among all three models. Used RandomizedSearchCV for hyperparameter tuning.
 
-## Potential Impact and Future Scope:
+# Potential Impact and Future Scope:
 
 The features of the dataset are regarding personal habits and a few general health parameters which are less costly to record. Thus the model can be utilized for early prediction of the risk of coronary heart disease in a cost-effective way.
 
